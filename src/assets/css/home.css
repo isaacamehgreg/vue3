@@ -1,0 +1,123 @@
+body{
+    
+   color: white; 
+   background-color: white;
+   
+   
+}
+.header{
+    display: flex;
+    margin-top: 20px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+
+.left{
+    display: flex;
+    flex-direction: row;
+   
+    
+}
+
+hr{
+    background-color: grey;
+    
+}
+
+.low{
+    display: flex;
+    flex-direction: row;
+    background-color: none;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.card1{
+    margin-top:10px ;
+    
+    height: 130px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: #1F1D2B;
+    padding: 20px 20px 20px 20px;
+    
+   
+    
+   
+    
+    
+}
+th{
+    color: white;
+    font-size: 12px;
+    
+}
+td{
+    color: white;
+    font-size: 12px;
+}
+
+
+.left-content{
+    
+    background-color:#1F1D2B ;
+    border-radius: 10px;
+    
+    
+}
+
+
+.table1{
+    
+    margin-bottom:-10px ;
+    
+}
+
+.t2{
+    margin-bottom: -20px;
+}
+
+hr{
+    margin: -0px;
+    
+}
+td{
+    
+    width: 200px;
+}
+
+.t-border{
+    border-bottom: 1px solid white;
+}
+
+img{
+    height: 25px;
+    width: 25px;
+    
+    
+    
+    
+}
+.t{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    width: 10px;
+    margin-right:70px ;
+}
+
+.but{
+    
+    height:20px ;
+    border-radius: 10px;
+    width: 70px;
+    border: none;
+    background-color:#E2A3A4 ;
+    color: #EB5757;
+    
+}
